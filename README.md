@@ -5,12 +5,6 @@ You can use the [editor on GitHub](https://github.com/AdelaBut/MDP/edit/main/REA
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
 <script>document.cookie = "session=test GDPR"; 
   document.cookie = "favorite_task=collect Data"; 
   function alertCookie() { alert(document.cookie); } 
@@ -18,6 +12,12 @@ Syntax highlighted code block
 <body> Bine ai venit la lab <button onclick="alertCookie()">
   Show cookies</button> 
 </body>
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+
+```markdown
+Syntax highlighted code block
+
+
 
 - Bulleted
 - List
